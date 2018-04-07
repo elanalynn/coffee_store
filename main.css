@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+
+#items {
+  border: 2px solid green;
+  color: white;
+}
+
+.item {
+  width: 10em;
+  height: 10em;
+  margin: 0.5em;
+  background: blue;
+}
+
+/* #coffee1 {
+  background: orange;
+  color: blue !important;
+} */
+
+.special {
+  width: 12em;
+  height: 12em;
+  margin: 0.5em;
+  background: hotpink;
+}
